@@ -1,0 +1,32 @@
+E:\5 Semmester\AP\USMS Project\USMS Project\bin\Debug\USMS Project.exe.config
+E:\5 Semmester\AP\USMS Project\USMS Project\bin\Debug\USMS Project.exe
+E:\5 Semmester\AP\USMS Project\USMS Project\bin\Debug\USMS Project.pdb
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS Project.csproj.AssemblyReference.cache
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.Form1.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.OrderAdd.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.Properties.Resources.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS Project.csproj.GenerateResource.cache
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS Project.csproj.CoreCompileInputs.cache
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS Project.exe
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS Project.pdb
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.ProductAdd.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.ProductShow.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.OrderShow.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.CostomerShow.resources
+E:\5 Semmester\AP\USMS Project\USMS Project\obj\Debug\USMS_Project.Login.resources
+F:\Projects\USMS Project\USMS Project\bin\Debug\USMS Project.exe.config
+F:\Projects\USMS Project\USMS Project\bin\Debug\USMS Project.exe
+F:\Projects\USMS Project\USMS Project\bin\Debug\USMS Project.pdb
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS Project.csproj.AssemblyReference.cache
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.CostomerShow.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.Form1.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.Login.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.OrderAdd.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.OrderShow.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.ProductAdd.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.ProductShow.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS_Project.Properties.Resources.resources
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS Project.csproj.GenerateResource.cache
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS Project.csproj.CoreCompileInputs.cache
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS Project.exe
+F:\Projects\USMS Project\USMS Project\obj\Debug\USMS Project.pdb
